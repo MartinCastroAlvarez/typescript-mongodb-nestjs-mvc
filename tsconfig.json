@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "noEmit": true, // Asegúrate de establecer esta opción en true o usar "emitDeclarationOnly": true
+        "allowImportingTsExtensions": true,
+        "lib": ["es2015"],
+        // Resto de las opciones...
+    }
+}
